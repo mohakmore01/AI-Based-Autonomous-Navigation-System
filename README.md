@@ -95,7 +95,7 @@ python main.py
 
 ### 🔹 Grid Mapping
 
-![Grid](images/grid.png)
+![Grid](images/layout.png)
 
 ### 🔹 Final Path Planning
 
